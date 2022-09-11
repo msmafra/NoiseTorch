@@ -2,8 +2,9 @@
 Version=1.0
 Name=NoiseTorch
 Comment=Create a virtual microphone that suppresses noise, in any application.
-Exec=noisetorch
+Exec=.local/bin/noisetorch
 Icon=noisetorch
 Terminal=false
 Type=Application
-Categories=Audio;Utility
+Categories=AudioVideo;Utility
+X-Desktop-File-Install-Version=0.26
